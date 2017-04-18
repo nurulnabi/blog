@@ -2,7 +2,7 @@
 * @Author: nurulnabi
 * @Date:   2017-04-18 22:49:54
 * @Last Modified by:   nurulnabi
-* @Last Modified time: 2017-04-18 23:12:44
+* @Last Modified time: 2017-04-18 23:14:19
 */
 
 var defaultValue	= require('config/globalValues')['defaultData'];
@@ -23,7 +23,7 @@ var poetSchema = new Schema({
 	},
 	mobile: {
 		type: Number
-	},x
+	},
 	takhallus: {
 		type: String
 	},
